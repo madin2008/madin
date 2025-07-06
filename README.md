@@ -1,2 +1,2 @@
-# madin
+# madrasah diniyah
 kegiatan madin
